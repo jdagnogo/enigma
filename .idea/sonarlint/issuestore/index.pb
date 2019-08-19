@@ -1,8 +1,6 @@
 
 @
 app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
-q
-Aapp/src/main/java/com/jdagnogo/enigma/db/entities/EnigmaEntity.kt,9/a/9af8bf45bc239b0542379a833c3416c738f30fd4
 g
 7app/src/main/java/com/jdagnogo/enigma/db/AppDatabase.kt,6/5/652398d716f1965b71ab022820e07be287b0ca4b
 w

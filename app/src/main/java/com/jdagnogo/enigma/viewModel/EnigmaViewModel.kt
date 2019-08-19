@@ -5,5 +5,5 @@ import com.jdagnogo.enigma.db.dao.EnigmaDao
 import javax.inject.Inject
 
 class EnigmaViewModel @Inject constructor(
-    enigmaDao: EnigmaDao) : ViewModel() {
+    val enigmaDao: EnigmaDao) : ViewModel() {
 }

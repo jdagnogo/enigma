@@ -55,4 +55,10 @@ dependencies {
 
     /* Android Architecture Component - ConstraintLayout  */
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+
+    //firebase
+    implementation 'com.google.firebase:firebase-core:17.1.0'
 }
+
+apply plugin: 'com.google.gms.google-services'
+
